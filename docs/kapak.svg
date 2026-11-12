@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="The Last Component">
+<style>.t{font-family:'Segoe UI',system-ui,sans-serif}.ttl{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:-1.5px}.m{font-family:'Consolas',monospace}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:4px}.ser{font-family:Georgia,serif;font-style:italic}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070C"/><stop offset="0.6" stop-color="#080D15"/><stop offset="1" stop-color="#0A1220"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+<radialGradient id="gl" cx="0.78" cy="0.24" r="0.72"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.20"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl2" cx="0.12" cy="0.9" r="0.5"><stop offset="0" stop-color="#E2E8F0" stop-opacity="0.10"/><stop offset="1" stop-color="#E2E8F0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#gl)"/>
+<rect width="1280" height="640" fill="url(#gl2)"/>
+<ellipse cx="1060" cy="320" rx="320" ry="128" fill="none" stroke="#A78BFA" stroke-opacity="0.13" stroke-width="1.5" transform="rotate(-16 1060 320)"/>
+<ellipse cx="1060" cy="320" rx="212" ry="84" fill="none" stroke="#E2E8F0" stroke-opacity="0.13" stroke-width="1.5" transform="rotate(-16 1060 320)"/>
+<circle cx="0" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="128" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="256" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="384" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="512" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="640" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="768" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="896" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1024" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1152" cy="0" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="96" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="224" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="352" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="480" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="608" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="736" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="864" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="992" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1120" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1248" cy="32" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="64" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="192" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="320" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="448" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="576" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="704" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="832" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="960" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1088" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1216" cy="64" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="32" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="160" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="288" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="416" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="544" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="672" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="800" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="928" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1056" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1184" cy="96" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="0" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="128" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="256" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="384" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="512" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="640" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="768" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="896" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1024" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1152" cy="128" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="96" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="224" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="352" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="480" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="608" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="736" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="864" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="992" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1120" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1248" cy="160" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="64" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="192" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="320" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="448" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="576" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="704" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="832" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="960" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1088" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1216" cy="192" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="32" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="160" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="288" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="416" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="544" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="672" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="800" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="928" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1056" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1184" cy="224" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="0" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="128" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="256" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="384" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="512" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="640" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="768" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="896" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1024" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1152" cy="256" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="96" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="224" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="352" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="480" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="608" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="736" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="864" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="992" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1120" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1248" cy="288" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="64" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="192" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="320" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="448" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="576" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="704" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="832" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="960" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1088" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1216" cy="320" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="32" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="160" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="288" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="416" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="544" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="672" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="800" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="928" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1056" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1184" cy="352" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="0" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="128" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="256" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="384" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="512" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="640" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="768" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="896" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1024" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1152" cy="384" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="96" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="224" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="352" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="480" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="608" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="736" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="864" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="992" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1120" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1248" cy="416" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="64" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="192" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="320" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="448" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="576" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="704" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="832" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="960" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1088" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1216" cy="448" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="32" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="160" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="288" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="416" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="544" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="672" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="800" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="928" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1056" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1184" cy="480" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="0" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="128" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="256" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="384" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="512" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="640" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="768" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="896" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1024" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1152" cy="512" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="96" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="224" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="352" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="480" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="608" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="736" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="864" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="992" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1120" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1248" cy="544" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="64" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="192" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="320" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="448" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="576" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="704" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="832" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="960" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1088" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1216" cy="576" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="32" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="160" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="288" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="416" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="544" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="672" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="800" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="928" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1056" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<circle cx="1184" cy="608" r="1.4" fill="#A78BFA" fill-opacity="0.10"/>
+<rect x="0" y="0" width="1280" height="4" fill="url(#ac)"/>
+<rect x="56" y="42" width="132" height="26" rx="13" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.5"/>
+<text x="122" y="59" text-anchor="middle" class="cap" font-size="9.5" fill="#A78BFA">GÖZ BEBEĞİ</text>
+<text x="204" y="59" class="cap" font-size="10.5" fill="#E2E8F0">ATMOSFERİK KEŞİF · 3D</text>
+<text x="1224" y="59" text-anchor="end" class="m" font-size="11" fill="#48566B">A4 · Enes Öztürk</text>
+<line x1="56" y1="86" x2="1224" y2="86" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="54" y="204" class="ttl" font-size="70" fill="#F5F8FC">The Last Component</text>
+<rect x="58" y="232" width="96" height="3" rx="1.5" fill="url(#ac)"/>
+<text x="58" y="276" class="ser" font-size="19" fill="#9FB2CA">Son Bileşen · sürrealist donanım mimarisi ve fizik tabanlı macera</text>
+<rect x="58" y="325" width="14" height="2.5" rx="1.25" fill="#A78BFA"/>
+<text x="84" y="336" class="t" font-size="14.5" fill="#A9BACE">Atmosferik 3D dünya ve makro-mekanik bulmacalar</text>
+<rect x="58" y="367" width="14" height="2.5" rx="1.25" fill="#A78BFA"/>
+<text x="84" y="378" class="t" font-size="14.5" fill="#A9BACE">Fizik tabanlı karakter ve etkileşim katmanı</text>
+<rect x="58" y="409" width="14" height="2.5" rx="1.25" fill="#A78BFA"/>
+<text x="84" y="420" class="t" font-size="14.5" fill="#A9BACE">İnceleme katmanı, sanal joystick ve ses tasarımı</text>
+<rect x="690" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="690" y="316" width="162" height="3" rx="1.5" fill="#A78BFA" fill-opacity="0.75"/>
+<text x="708" y="360" class="t" font-size="24" font-weight="700" fill="#A78BFA">3D</text>
+<text x="708" y="386" class="m" font-size="10.5" fill="#7E8FA8">keşif</text>
+<rect x="868" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="868" y="316" width="162" height="3" rx="1.5" fill="#E2E8F0" fill-opacity="0.75"/>
+<text x="886" y="360" class="t" font-size="24" font-weight="700" fill="#E2E8F0">fizik</text>
+<text x="886" y="386" class="m" font-size="10.5" fill="#7E8FA8">motor</text>
+<rect x="1046" y="316" width="162" height="100" rx="14" fill="#080E18" fill-opacity="0.92" stroke="#1C2A3C"/>
+<rect x="1046" y="316" width="162" height="3" rx="1.5" fill="#E2E8F0" fill-opacity="0.75"/>
+<text x="1064" y="360" class="t" font-size="24" font-weight="700" fill="#E2E8F0">1</text>
+<text x="1064" y="386" class="m" font-size="10.5" fill="#7E8FA8">başyapıt</text>
+<line x1="56" y1="536" x2="1224" y2="536" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="56" y="574" class="t" font-size="19" font-weight="600" fill="#EDF3FA">Enes Öztürk</text>
+<text x="56" y="600" class="m" font-size="11.5" fill="#5A6B88">github.com/EnesBinMalik · MIT Lisansı</text>
+<text x="1224" y="574" text-anchor="end" class="m" font-size="10.5" fill="#E2E8F0">© 2026 Enes Öztürk — tüm hakları saklıdır</text>
+<text x="1224" y="600" text-anchor="end" class="m" font-size="10.5" fill="#3F4C60">tasarım &amp; geliştirme · Enes Öztürk</text>
+</svg>

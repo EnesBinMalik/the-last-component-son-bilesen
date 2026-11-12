@@ -1,0 +1,6 @@
+{
+  "name": "The Last Component (Son Bileşen)",
+  "description": "3D Atmosferik Keşif, Sürrealist Donanım Mimarisi ve Fizik Tabanlı Makro-Mekanik Aksiyon-Macera — Bir Enes Öztürk Başyapıtı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
